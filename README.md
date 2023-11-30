@@ -40,7 +40,9 @@ Estate is a web application built with Next.js and React.js, designed to provide
 
 # Preview Images
 
-![image](https://github.com/pathakharsh123/Real-Estate-app/assets/112664461/b508a554-9215-47e9-bcf4-5f917723602a)
+
+![image](https://github.com/pathakharsh123/Real-Estate-app/assets/112664461/9a0e08d4-23ef-46d5-b144-11cbb84c11c9)
+
 
 
 
